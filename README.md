@@ -1,2 +1,2 @@
-# wireshell-wsh-for-linux
-Modified fish shell 
+![WSH-logo](WSH-logo.png)
+WSH For Linux
